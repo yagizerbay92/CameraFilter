@@ -1,2 +1,2 @@
 # CameraFilter
-Very Basic image filtering with RXSwift
+Basic image filtering example with RXSwift
